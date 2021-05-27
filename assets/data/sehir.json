@@ -1,0 +1,327 @@
+[
+    {
+        "sehir_adi": "ADANA",
+        "plaka_no":1
+    },
+    {
+        "sehir_adi": "ADIYAMAN",
+        "plaka_no":2
+    },
+    {
+        "sehir_adi": "AFYONKARAHİSAR",
+        "plaka_no":3
+    },
+    {
+        "sehir_adi": "AĞRI",
+        "plaka_no":4
+    },
+    {
+        "sehir_adi": "AKSARAY",
+        "plaka_no":68
+    },
+    {
+        "sehir_adi": "AMASYA",
+        "plaka_no":5
+    },
+    {
+        "sehir_adi": "ANKARA",
+        "plaka_no":6
+    },
+    {
+        "sehir_adi": "ANTALYA",
+        "plaka_no":7
+    },
+    {
+        "sehir_adi": "ARDAHAN",
+        "plaka_no":75
+    },
+    {
+        "sehir_adi": "ARTVİN",
+        "plaka_no":8
+    },
+    {
+        "sehir_adi": "AYDIN",
+        "plaka_no":9
+    },
+    {
+        "sehir_adi": "BALIKESİR",
+        "plaka_no":10
+    },
+    {
+        "sehir_adi": "BARTIN",
+        "plaka_no":74
+    },
+    {
+        "sehir_adi": "BATMAN",
+        "plaka_no":72
+    },
+    {
+        "sehir_adi": "BAYBURT",
+        "plaka_no":69
+    },
+    {
+        "sehir_adi": "BİLECİK",
+        "plaka_no":11
+    },
+    {
+        "sehir_adi": "BİNGÖL",
+        "plaka_no":12
+    },
+    {
+        "sehir_adi": "BİTLİS",
+        "plaka_no":13
+    },
+    {
+        "sehir_adi": "BOLU",
+        "plaka_no":14
+    },
+    {
+        "sehir_adi": "BURDUR",
+        "plaka_no":15
+    },
+    {
+        "sehir_adi": "BURSA",
+        "plaka_no":16
+    },
+    {
+        "sehir_adi": "ÇANAKKALE",
+        "plaka_no":17
+    },
+    {
+        "sehir_adi": "ÇANKIRI",
+        "plaka_no":18
+    },
+    {
+        "sehir_adi": "ÇORUM",
+        "plaka_no":19
+    },
+    {
+        "sehir_adi": "DENİZLİ",
+        "plaka_no":20
+    },
+    {
+        "sehir_adi": "DİYARBAKIR",
+        "plaka_no":21
+    },
+    {
+        "sehir_adi": "DÜZCE",
+        "plaka_no":81
+    },
+    {
+        "sehir_adi": "EDİRNE",
+        "plaka_no":22
+    },
+    {
+        "sehir_adi": "ELAZIĞ",
+        "plaka_no":23
+    },
+    {
+        "sehir_adi": "ERZİNCAN",
+        "plaka_no":24
+    },
+    {
+        "sehir_adi": "ERZURUM",
+        "plaka_no":25
+    },
+    {
+        "sehir_adi": "ESKİŞEHİR",
+        "plaka_no":26
+    },
+    {
+        "sehir_adi": "GAZİANTEP",
+        "plaka_no":27
+    },
+    {
+        "sehir_adi": "GİRESUN",
+        "plaka_no":28
+    },
+    {
+        "sehir_adi": "GÜMÜŞHANE",
+        "plaka_no":29
+    },
+    {
+        "sehir_adi": "HAKKARİ",
+        "plaka_no":30
+    },
+    {
+        "sehir_adi": "HATAY",
+        "plaka_no":31
+    },
+    {
+        "sehir_adi": "IĞDIR",
+        "plaka_no":76
+    },
+    {
+        "sehir_adi": "ISPARTA",
+        "plaka_no":32
+    },
+    {
+        "sehir_adi": "İSTANBUL",
+        "plaka_no":34
+    },
+    {
+        "sehir_adi": "İZMİR",
+        "plaka_no":35
+    },
+    {
+        "sehir_adi": "KAHRAMANMARAŞ",
+        "plaka_no":46
+    },
+    {
+        "sehir_adi": "KARABÜK",
+        "plaka_no":78
+    },
+    {
+        "sehir_adi": "KARAMAN",
+        "plaka_no":70
+    },
+    {
+        "sehir_adi": "KARS",
+        "plaka_no":36
+    },
+    {
+        "sehir_adi": "KASTAMONU",
+        "plaka_no":37
+    },
+    {
+        "sehir_adi": "KAYSERİ",
+        "plaka_no":38
+    },
+    {
+        "sehir_adi": "KIRIKKALE",
+        "plaka_no":71
+    },
+    {
+        "sehir_adi": "KIRKLARELİ",
+        "plaka_no":39
+    },
+    {
+        "sehir_adi": "KIRŞEHİR",
+        "plaka_no":40
+    },
+    {
+        "sehir_adi": "KİLİS",
+        "plaka_no":79
+    },
+    {
+        "sehir_adi": "KOCAELİ",
+        "plaka_no":41
+    },
+    {
+        "sehir_adi": "KONYA",
+        "plaka_no":42
+    },
+    {
+        "sehir_adi": "KÜTAHYA",
+        "plaka_no":43
+    },
+    {
+        "sehir_adi": "MALATYA",
+        "plaka_no":44
+    },
+    {
+        "sehir_adi": "MANİSA",
+        "plaka_no":45
+    },
+    {
+        "sehir_adi": "MARDİN",
+        "plaka_no":47
+    },
+    {
+        "sehir_adi": "MERSİN",
+        "plaka_no":33
+    },
+    {
+        "sehir_adi": "MUĞLA",
+        "plaka_no":48
+    },
+    {
+        "sehir_adi": "MUŞ",
+        "plaka_no":49
+    },
+    {
+        "sehir_adi": "NEVŞEHİR",
+        "plaka_no":50
+    },
+    {
+        "sehir_adi": "NİĞDE",
+        "plaka_no":51
+    },
+    {
+        "sehir_adi": "ORDU",
+        "plaka_no":52
+    },
+    {
+        "sehir_adi": "OSMANİYE",
+        "plaka_no":80
+    },
+    {
+        "sehir_adi": "RİZE",
+        "plaka_no":53
+    },
+    {
+        "sehir_adi": "SAKARYA",
+        "plaka_no":54
+    },
+    {
+        "sehir_adi": "SAMSUN",
+        "plaka_no":55
+    },
+    {
+        "sehir_adi": "SİİRT",
+        "plaka_no":56
+    },
+    {
+        "sehir_adi": "SİNOP",
+        "plaka_no":57
+    },
+    {
+        "sehir_adi": "SİVAS",
+        "plaka_no":58
+    },
+    {
+        "sehir_adi": "ŞANLIURFA",
+        "plaka_no":63
+    },
+    {
+        "sehir_adi": "ŞIRNAK",
+        "plaka_no":73
+    },
+    {
+        "sehir_adi": "TEKİRDAĞ",
+        "plaka_no":59
+    },
+    {
+        "sehir_adi": "TOKAT",
+        "plaka_no":60
+    },
+    {
+        "sehir_adi": "TRABZON",
+        "plaka_no":61
+    },
+    {
+        "sehir_adi": "TUNCELİ",
+        "plaka_no":62
+    },
+    {
+        "sehir_adi": "UŞAK",
+        "plaka_no":64
+    },
+    {
+        "sehir_adi": "VAN",
+        "plaka_no":65
+    },
+    {
+        "sehir_adi": "YALOVA",
+        "plaka_no":77
+    },
+    {
+        "sehir_adi": "YOZGAT",
+        "plaka_no":66
+    },
+    {
+        "sehir_adi": "ZONGULDAK",
+        "plaka_no":67
+    }
+    
+]

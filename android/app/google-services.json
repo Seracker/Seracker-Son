@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "539913706796",
+    "project_id": "seracker-cd8df",
+    "storage_bucket": "seracker-cd8df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539913706796:android:ec11b3111367031c13e089",
+        "android_client_info": {
+          "package_name": "com.dreamteam.seracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539913706796-um6n6tvm43g0agg2fko0rf9labgqov4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dreamteam.seracker",
+            "certificate_hash": "1016b3ff89f85d8dbf5514368c827249a488795e"
+          }
+        },
+        {
+          "client_id": "539913706796-f7cea1pp76m4qau95k5no61v5uv8ovgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuR7dDphkzb-1XnUJzTy7udPGbLAkLuMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539913706796-f7cea1pp76m4qau95k5no61v5uv8ovgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
